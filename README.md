@@ -1,9 +1,8 @@
 # jpa02-yuanchen_meng
 
-Repo: https://github.com/ucsb-cs156-m23/jpa02-AlbertJan6969
+Repo: https://github.com/ucsb-cs156-m23/jpa02-yuanchenmeng
 
-
-Deployed at: https://jpa02-AlbertJan6969.dokku-07.cs.ucsb.edu
+Deployed at: http://jpa02-yuanchenmeng.dokku-07.cs.ucsb.edu/
 
 
 # About this repo
